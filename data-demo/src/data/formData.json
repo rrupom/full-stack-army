@@ -1,0 +1,17 @@
+{
+  "name": {
+    "label": "What is your name?",
+    "type": "text",
+    "placeholder": "Rakib Talukder"
+  },
+  "email": {
+    "label": "What is your email?",
+    "type": "email",
+    "placeholder": "rakib@example.com"
+  },
+  "phone": {
+    "label": "What is your phone number?",
+    "type": "tel",
+    "placeholder": "+8801100000"
+  }
+}
